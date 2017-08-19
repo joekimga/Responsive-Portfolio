@@ -295,8 +295,13 @@ input[type=submit] {
   #connect {
     width: 30%;
   }
+
   .sidebar {
     float: left;
+  }
+
+  #contact-form {
+    width: 70%;
   }
 }
 
@@ -313,6 +318,10 @@ input[type=submit] {
   /*nav {
     float: left;
   }*/
+
+  #contact-form {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 639px) {
